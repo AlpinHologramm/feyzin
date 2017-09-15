@@ -1,0 +1,74 @@
+
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+body
+{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: Lora;
+    font-size: 12px;
+}
+
+.playfair
+{
+    font-size: 16px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #7f31c4;
+}
+
+.recits
+{
+    text-align: center;
+    font-style: italic;
+}
+
+.titre
+{
+    font-family: Lora;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recits_texte
+{
+    font-size: 16px;
+    text-align: justify;
+}
+
+.legende
+{
+    font-size: 11px;
+    color: #8b8b8b;
+    font-style: italic;
+    text-align: justify;
+}
+
+.carte
+{
+    padding: 5px;
+    border: 1px dotted #CCC;
+}
+
+.introduction
+{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.sous_titre
+{
+    text-align: center;
+    font-size: 22px;
+    color: #7f31c4;
+    font-family: Lora;
+}
+
+.tuile
+{
+    max-height: 60px;
+    min-height: 60px;
+}
+
